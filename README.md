@@ -1,4 +1,4 @@
-📊 LinkedIn Job Postings Analysis (2023–2024)
+📊 LinkedIn Job Postings Analysis Dashboard (2023-2024) (Power BI) 
 📌 Project Overview
 
 This project analyzes LinkedIn job postings data from 2023–2024 using Power BI. The goal is to provide insights into job trends, hiring patterns, salary distributions, and application behavior across different companies, job roles, and experience levels.
